@@ -20,7 +20,7 @@ Addon leggero e standalone per Stremio che estrae e riproduce contenuti da VixSr
 PRIMA DI TUTTO FARE IL FORK E MODIFICARE IL DOCKER FILE:
 
 [VIDEO
-](https://www.youtube.com/watch?v=IXEi81ONdNo
+](https://www.youtube.com/watch?v=nnhwo0C5x3I
 )
 
 ### 1. Deploy su Koyeb (Scelta consigliata per stabilità)
